@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Database Task</string>
+    <string name="title_activity_fruit_list">fruitList</string>
+</resources>
